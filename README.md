@@ -1,4 +1,4 @@
-# getAWSdocs.py
+# get_AWS_docs.py
 
 ## About
 
